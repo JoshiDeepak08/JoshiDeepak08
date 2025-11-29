@@ -11,8 +11,6 @@
 - Retrieval-Augmented Generation (RAG)  
 - Backend Engineering with FastAPI  
 
----
-
 ### 🔗 Portfolio & Resume  
 **Portfolio:** [https://your-portfolio-link.com](https://portfolio-main-tan-three.vercel.app/)  
 **Resume:** [https://your-resume-link.com](https://drive.google.com/file/d/1Dnooik6tTwi44TPvtb_MtUxsFLmQQbEB/view?usp=sharing)  
