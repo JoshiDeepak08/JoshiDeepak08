@@ -16,7 +16,7 @@
 text, tspan {white-space: pre;}
 </style>
 
-<rect width="985px" height="530px" fill="#f6f8fa" rx="15"/>
+<rect width="1050px" height="530px" fill="#f6f8fa" rx="15"/>
 
 <!-- LEFT: same ASCII art -->
 <text x="15" y="30" fill="#24292f" class="ascii">
