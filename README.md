@@ -6,7 +6,7 @@
 </a>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1Dnooik6tTwi44TPvtb_MtUxsFLmQQbEB/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/18rns2ID7A2eeqXndBV3LUZe86v4OoxTh/view?usp=sharing" target="_blank">
     Resume
   </a>
   &nbsp;•&nbsp;
