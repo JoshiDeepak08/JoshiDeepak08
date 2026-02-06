@@ -1,3 +1,13 @@
+<h2 align="center">📖 Coming Soon</h2>
+
+<h3 align="center"><i>I Was Never Me After You</i></h3>
+
+<p align="center">
+A prose–poetry journey on love, loss, and becoming.
+</p>
+
+<hr/>
+
 <a href="https://github.com/Deepak-J0shi">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
