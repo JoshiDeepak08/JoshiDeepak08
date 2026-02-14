@@ -33,4 +33,4 @@
   </a>
 </p>
 
-<h3 align="center"><i> My Book, "I Was Never Me After You" is coming soon!! </i></h3>
+<h3 align="center"><i> My Book, "I Was Never Me After You" is live now!! </i></h3>
